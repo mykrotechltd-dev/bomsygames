@@ -6,10 +6,20 @@ Homepage concept for **Bomsy Games**, the Nigerian sports brand behind **Bomsy W
 
 - `index.html` — single-file static homepage (hero, tournaments, gallery, news, footer). No build step; open directly in a browser or deploy as-is (e.g. GitHub Pages).
 
+## Assets
+
+- `assets/bomsy-logo.jpeg` — nav logo
+- `assets/bomsy-logo-social.jpg` — clean square crop used for favicon and social share preview
+- `assets/founder.jpg` — Pastor Boma Willie-Pepple (Leadership section)
+- `assets/coaching-session.jpg` — Who We Are section photo
+- `assets/target-board.jpg`, `assets/session-setup.jpg` — Gallery photos
+- `assets/bomsy-report-issue-001.jpg` — report cover (News section)
+
+Two Gallery tiles ("Cup presentation, Season 2" and "Youth squad awaiting their turn") are still styled placeholders — swap in real photos when available.
+
 ## Placeholders to fill in before launch
 
 - Contact email and phone number in the footer
-- Gallery tiles are styled placeholders — swap in real tournament and coaching photos
 - Newsletter form has no backend wired up yet
 
 ## Content sources
