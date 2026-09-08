@@ -8,7 +8,6 @@ Homepage concept for **Bomsy Games**, the Nigerian sports brand behind **Bomsy W
 
 ## Placeholders to fill in before launch
 
-- **`assets/bomsy-logo.png`** — the nav header references this path for the real Bomsy Games logo. Add the actual logo file here (a square/circular PNG works best at ~92x92px or larger) for it to appear next to the "BOMSY GAMES" wordmark.
 - Contact email and phone number in the footer
 - Gallery tiles are styled placeholders — swap in real tournament and coaching photos
 - Newsletter form has no backend wired up yet
