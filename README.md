@@ -45,6 +45,15 @@ Raw, unedited originals (WhatsApp exports, the source PDF, zip archives, uncompr
 - **Bomsy Target Bowling copy**: written from what the two photos and two videos show (a ball rolled across a flat board of numbered holes) — no official rules text was provided, so keep this description high-level and correct me if the mechanics are different.
 - Near-duplicate WhatsApp photos were deduplicated (identical byte-for-byte copies dropped).
 
+## Corrections applied (per your factual review)
+
+- School name fixed: **Dietams International Schools PH** (was misspelled "Dietans International Schools").
+- Event renamed: **Rivers State Inter-School Competition** (was "Rivers Secondary Schools Championship").
+- The "school outreach" photo is actually **Enitonna High School** — captions and alt text updated on Home and the Wall Tennis page; faces aren't visible in the shot (shade cover), so no identification issue there.
+- The action-shot jersey is **Bauari Brown House**, not "Iyam Brown House" — caption, alt text, and the file itself (`action-bauari-brown.jpg`) renamed to match.
+
+If "Dietams" is itself a typo and the real spelling differs, let me know and I'll fix it again — proper nouns like school names are easy to mishear/mistype across a chat, so worth a final double-check on your end.
+
 ## Still open
 
 - Contact email and phone number in the footer are still bracketed placeholders.
