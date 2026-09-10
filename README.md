@@ -22,6 +22,8 @@ assets/
   bomsy-report-issue-001.jpg   report cover (News section)
   coaching-session.jpg, target-board.jpg, session-setup.jpg   legacy, unreferenced — safe to remove later
   wall-tennis/                 logo, action shots, tournament/trophy photos, school outreach, WIPO screenshot
+    report-002-cover.jpg       Report 2 (Feb 2026) — Senator Ningi / National Assembly
+    report-003-cover.jpg       Report 3 (Apr 2026) — Senator Magnus Ngei Abe / NUPRC
     videos/ip-nomination.mp4   IP nomination video (Press section)
   mat-game/                    coaching photos, tile close-up, gameplay, tournament podium, product shot
     videos/explain.mp4         "Mat Game, Explained" — rules & expectations
@@ -60,7 +62,7 @@ If "Dietams" is itself a typo and the real spelling differs, let me know and I'l
 
 ## Content sources
 
-- The Bomsy Wall Tennis Report (Issue #001, April 2025) and a Vision/Mission graphic you shared.
+- The Bomsy Wall Tennis Report, Issues #1–3 (April 2025, February 2026, April 2026) and a Vision/Mission graphic you shared. Reports 2 and 3 cover the National Assembly presentation to Senator Abdul Ahmed Ningi (Chairman, Senate Committee on Sports) and the court installation at Senator Magnus Ngei Abe's (Chairman, NUPRC) premises — both now featured on Home's News section and a new "The Bomsy Report" section on the Wall Tennis page.
 - [Vanguard News, "Bomsy Wall Tennis Births In Port Harcourt" (Sept 28, 2024)](https://www.vanguardngr.com/2024/09/bomsy-wall-tennis-births-in-port-harcourt/).
 - Your "Bomsy Games — Website Structure & Content Framework" write-up.
 - Your WIPO World IP Day screenshot and IP nomination video.
