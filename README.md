@@ -55,8 +55,6 @@ Raw, unedited originals (WhatsApp exports, the source PDF, zip archives, uncompr
 If "Dietams" is itself a typo and the real spelling differs, let me know and I'll fix it again — proper nouns like school names are easy to mishear/mistype across a chat, so worth a final double-check on your end.
 
 ## Still open
-
-- Contact email and phone number in the footer are still bracketed placeholders.
 - Newsletter form has no backend wired up.
 - One raw video (`_raw/WhatsApp Video 2026-09-10 at 00.11.35.mp4`) is still unidentified/unplaced — say what it is if you want it used.
 
